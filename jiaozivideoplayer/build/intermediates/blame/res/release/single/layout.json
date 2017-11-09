@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\jz_layout_standard.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\src\\main\\res\\layout\\jz_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\jz_dialog_brightness.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\src\\main\\res\\layout\\jz_dialog_brightness.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\jz_dialog_volume.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\src\\main\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\jz_layout_clarity_item.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\src\\main\\res\\layout\\jz_layout_clarity_item.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\jz_dialog_progress.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\src\\main\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\jz_layout_clarity.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\src\\main\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\MyPersonalPorject\\JZVDDemo\\jiaozivideoplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]
